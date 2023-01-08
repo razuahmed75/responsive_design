@@ -1,8 +1,5 @@
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/constant.dart';
-
 import '../util/myTile.dart';
 import '../util/mybox.dart';
 
